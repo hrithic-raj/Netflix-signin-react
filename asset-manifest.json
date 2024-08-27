@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Netflix-signin-react.git/static/css/main.d49347b8.css",
+    "main.js": "/Netflix-signin-react.git/static/js/main.dd38129d.js",
+    "static/media/bg.png": "/Netflix-signin-react.git/static/media/bg.1a756656626f72e06528.png",
+    "index.html": "/Netflix-signin-react.git/index.html",
+    "main.d49347b8.css.map": "/Netflix-signin-react.git/static/css/main.d49347b8.css.map",
+    "main.dd38129d.js.map": "/Netflix-signin-react.git/static/js/main.dd38129d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d49347b8.css",
+    "static/js/main.dd38129d.js"
+  ]
+}
